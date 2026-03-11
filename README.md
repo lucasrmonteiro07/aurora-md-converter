@@ -13,7 +13,7 @@ Transforme seus documentos (TXT, DOCX, XLSX, CSV) em Markdown profissional com I
 - 📋 Copiar para clipboard
 - 📱 Responsivo para desktop e mobile
 
-## 📋 Pré-requisitos
+## 📋 Pré-requisitos#
 
 - Node.js 16+
 - npm ou yarn
