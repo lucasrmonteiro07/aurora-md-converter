@@ -102,7 +102,7 @@
 ### Desenvolvimento
 Arquivo: `.env` (criado localmente, não comitado)
 ```
-VITE_GROQ_API_KEY=gsk_0Z1QNawP31J87Jyq3GpIWGdyb3FYthYK0y1chZt6zmi0e20vPq
+VITE_GROQ_API_KEY=sua_chave_api_groq_aqui
 ```
 
 ### Produção (Vercel)
